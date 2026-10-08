@@ -5,4 +5,4 @@
 - [隐私政策](simulaid/privacy.md)
 - [技术支持与反馈](simulaid/support.md)
 
-网站版本由 GitHub Pages 托管；以上 Markdown 页面也可在 GitHub 上直接阅读。
+以上页面可直接在 GitHub 上公开阅读。独立的 GitHub Pages 网站尚未启用。
