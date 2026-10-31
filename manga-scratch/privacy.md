@@ -1,4 +1,4 @@
-# 漫画刮刮乐 · 隐私政策 / Privacy Policy
+# Manga Scratch（漫画刮刮乐）· 隐私政策 / Privacy Policy
 
 更新日期：2026 年 10 月 31 日（Asia/Shanghai）
 

@@ -1,4 +1,4 @@
-# 漫画刮刮乐 · 技术支持 / Support
+# Manga Scratch（漫画刮刮乐）· 技术支持 / Support
 
 更新日期：2026 年 10 月 31 日（Asia/Shanghai）
 
@@ -9,6 +9,10 @@
 公开支持邮箱：[jellybread1999@hotmail.com](mailto:jellybread1999@hotmail.com)
 
 ## 中文常见问题
+
+### 怎样切换中文或英文？
+
+支持双语的版本首次进入默认显示 English。打开设置，点击“中文”或“English”切换，选择保存在本机。中文模式保留店长教程配音，英文模式显示英语字幕。
 
 ### 怎样反馈问题？
 
@@ -47,6 +51,10 @@
 [查看隐私政策](privacy.md)
 
 ## English FAQ
+
+### How can I switch languages?
+
+The bilingual version starts in English. Open Settings and choose 中文 or English. Your selection is saved on this device. Chinese mode includes the shopkeeper’s Chinese tutorial narration; English mode uses English subtitles.
 
 Updated: 31 October 2026 (Asia/Shanghai)
 
